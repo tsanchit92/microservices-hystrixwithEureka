@@ -1,0 +1,13 @@
+package micro;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RatingDataServiceNewApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RatingDataServiceNewApplication.class, args);
+	}
+
+}

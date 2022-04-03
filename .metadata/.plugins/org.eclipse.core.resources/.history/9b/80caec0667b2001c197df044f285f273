@@ -1,0 +1,5 @@
+package micro.model;
+
+public class MovieSummary {
+
+}

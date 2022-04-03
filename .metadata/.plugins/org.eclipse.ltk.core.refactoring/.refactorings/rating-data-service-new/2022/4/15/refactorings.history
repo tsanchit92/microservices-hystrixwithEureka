@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;micro.MovieInfoSdrviceApplication&apos; to &apos;RatingDataService&apos;&#x0D;&#x0A;- Original project: &apos;rating-data-service-new&apos;&#x0D;&#x0A;- Original element: &apos;micro.MovieInfoSdrviceApplication&apos;&#x0D;&#x0A;- Renamed element: &apos;micro.RatingDataService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MovieInfoSdrviceApplication&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;micro{MovieInfoSdrviceApplication.java[MovieInfoSdrviceApplication" matchStrategy="1" name="RatingDataService" qualified="false" references="true" similarDeclarations="false" stamp="1648969945473" textual="false" version="1.0"/>
+</session>

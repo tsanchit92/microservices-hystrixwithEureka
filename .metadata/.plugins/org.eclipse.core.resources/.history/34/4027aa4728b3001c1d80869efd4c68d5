@@ -1,0 +1,30 @@
+package micro.services.model;
+
+public class Rating {
+	private String userId;
+	private int rating;
+	
+	public Rating(String userId, int rating) {
+		super();
+		this.userId = userId;
+		this.rating = rating;
+	}
+
+	public Rating() {
+		super();
+	}
+
+	public String getuserId() {
+		return userId;
+	}
+	public void setuserId(String userId) {
+		this.userId = userId;
+	}
+	public int getRating() {
+		return rating;
+	}
+	public void setRating(int rating) {
+		this.rating = rating;
+	}
+
+}
